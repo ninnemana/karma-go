@@ -1,0 +1,18 @@
+_metadata:
+  major_version: 1
+display_information:
+  name: Karma
+features:
+  bot_user:
+    display_name: Karma
+    always_online: true
+oauth_config:
+  scopes:
+    bot:
+      - channels:read
+      - channels:history
+settings:
+  org_deploy_enabled: false
+  socket_mode_enabled: true
+  is_hosted: false
+  token_rotation_enabled: false
